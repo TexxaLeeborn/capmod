@@ -1,0 +1,5 @@
+location_type,name,population2,S_L1_pu,S_L1_pr,S_L2_pu,S_L2_pr,S_L3_pu,S_L3_pr,S_L4_pu,S_L4_pr,empty
+1,Village,999,6,0,3,0,2,0,0,0,
+2,Small town,3953,50,1,10,0,5,0,0,0,
+3,Large town,6559,24,6,11,2,7,5,0,1,
+4,Capital city,15326,45,20,19,7,13,11,1,4,
